@@ -1,9 +1,10 @@
-**Vedtekter for Enigma**
-§ 1 Navn 
+## Vedtekter for Enigma
+
+### § 1 Navn 
 Linjeforeningens offisielle navn er Enigma.  
 
 
-§ 2 Formål  
+### § 2 Formål  
 Linjeforeningen er studentforeningen for masterstudentene ved linjen Informasjonsteknologi og Økonomi (ITØK) ved Universitetet i Bergen (UiB). Foreningens formål er å tilrettelegge for godt samhold og en god linjekultur, samt oppgaver som: knytte sosiale og faglige relasjoner blant studentene ved studiet, binde og opprettholde kontakt med næringslivet.  
 
 
